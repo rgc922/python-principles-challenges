@@ -3,9 +3,12 @@
 
 https://pythonprinciples.com/challenges
 
-This is my own version for the challenges showed in python principles web page. Once you solve each one, they show some solutions. Off course some of them are very fancy but for now those are good enough for me as an exercise.
 
-In addition, there is a lot or room for improvement, for example, the web page accepted my solution in Palindrome or Anagram doesn't consider empty space between words. I have my onw improve version too.
+This is my own version for the challenges showed in python principles web page. Once you solve each one, they show you some solutions. Off course some of them are very fancy but for now those are good enough for me as an exercise.
+
+In addition, there is a lot or room for improvement, for example, the web page accepted my solution for Palindrome or Anagram, but this answer doesn't consider empty space between words. I have my onw improve version too.
+
+Somebody with basic understandig of Python and Functions shouldn´t have any problem to solve of of them. You can go to the web page an try by yourself before see my files. 
 
 Challenge
 
