@@ -10,6 +10,11 @@ In addition, there is a lot or room for improvement, for example, the web page a
 
 Somebody with basic understandig of Python and Functions shouldn´t have any problem to solve of of them. You can go to the web page an try by yourself before see my files. 
 
+Some examples were really simple an easy for me, so, this is mainly for beginners, although, even at first glance are easy, some of them took me some time. 
+
+Good luck !!!!
+
+
 Challenge
 
 Capital indexes
