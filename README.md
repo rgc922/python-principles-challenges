@@ -1,7 +1,7 @@
 # python-principles-challenges
 
 
-https://pythonprinciples.com/challenges
+https://pythonprinciples.com/
 
 
 This is my own version for the challenges showed in python principles web page. Once you solve each one, they show you some solutions. Off course some of them are very fancy but for now those are good enough for me as an exercise.
